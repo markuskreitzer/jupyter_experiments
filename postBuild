@@ -13,14 +13,12 @@ jupyter nbextension enable execution_dependencies/execution_dependencies
 jupyter nbextension enable export_embedded/main 
 jupyter nbextension enable gist_it/main 
 jupyter nbextension enable hinterland/hinterland 
-jupyter nbextension enable ipyparallel/main 
 jupyter nbextension enable jupyter-js-widgets/extension 
 jupyter nbextension enable livemdpreview/livemdpreview 
 jupyter nbextension enable nbextensions_configurator/config_menu/main 
 jupyter nbextension enable nbextensions_configurator/tree_tab/main 
 jupyter nbextension enable notify/notify 
 jupyter nbextension enable printview/main 
-jupyter nbextension enable python-markdown/main 
 jupyter nbextension enable rise/main 
 jupyter nbextension enable runtools/main 
 jupyter nbextension enable scratchpad/main 
