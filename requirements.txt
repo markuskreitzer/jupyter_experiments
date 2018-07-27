@@ -3,3 +3,4 @@ numpy
 matplotlib
 ipywidgets
 jupyter_contrib_nbextensions
+autopep8
